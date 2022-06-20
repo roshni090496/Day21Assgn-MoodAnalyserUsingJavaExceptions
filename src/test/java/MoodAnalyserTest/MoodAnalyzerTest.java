@@ -1,7 +1,6 @@
 package MoodAnalyserTest;
 
 import MoodAnalyser.MoodAnalyzer;
-import MoodAnalyser.MoodAnalyzerException;
 import org.junit.Assert;
 import org.junit.Test;
 
